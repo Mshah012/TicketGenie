@@ -1,8 +1,5 @@
 streamlit
 scikit-learn
-random
-json
 mysql-connector-python
 numpy
-pickle
-smtplib
+
