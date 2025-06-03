@@ -1,0 +1,27 @@
+{
+  "intents": [
+    
+    {
+      "tag": "greeting",
+      "patterns": ["hello", "hi", "hey", "good morning", "good evening"],
+      "responses": ["Hello! How can I assist you today? "]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["bye", "goodbye", "see you", "later"],
+      "responses": ["Goodbye! Have a great day! "]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["thanks", "thank you", "appreciate it"],
+      "responses": ["You're welcome! Happy to help! "]
+    },
+    {
+      "tag": "book_movie",
+      "patterns": ["book movie", "book ticket", "I want to book a movie"],
+      "responses": ["Sure! Here are the movies currently available:"]
+    }
+    
+    
+  ]
+}
