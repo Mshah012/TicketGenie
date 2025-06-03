@@ -2,4 +2,4 @@ streamlit
 scikit-learn
 mysql-connector-python
 numpy
-
+fpdf
